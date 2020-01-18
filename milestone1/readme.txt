@@ -1,3 +1,4 @@
+RK60 interactive map application for real time crime reporting.
 The document contains 4 folders:
 1)code- this section contains a zip file of coding done uptil current milestone.
 2)images - code snippets, prototype images
